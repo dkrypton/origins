@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>io.github.dkrypton</groupId>
 	<artifactId>origins</artifactId>
-	<version>1.0.4</version>
+	<version>1.0.5-SNAPSHOT</version>
 
 	<name>Dependent Tasks Executor Core</name>
 	<description>Executing dependent/Independent tasks in a reliable way, is made so easy that even your grandma can do it.</description>
@@ -35,7 +35,7 @@
 		<connection>scm:git:git://github.com/dkrypton/origins.git</connection>
 		<developerConnection>scm:git:https://github.com/dkrypton/origins.git</developerConnection>
 		<url>https://github.com/dkrypton/origins</url>
-		<tag>origins-1.0.4</tag>
+		<tag>origins-1.0.0</tag>
 	</scm>
 
 	<distributionManagement>
