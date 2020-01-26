@@ -21,7 +21,7 @@
 	<scm>
 		<url>https://github.com/dkrypton/origins</url>
 		<connection>scm:git:https://github.com/dkrypton/origins.git</connection>
-		<developerConnection>scm:git:https://github.com:dkrypton/origins.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/dkrypton/origins.git</developerConnection>
 		<tag>origins-1.0</tag>
 	</scm>
 
