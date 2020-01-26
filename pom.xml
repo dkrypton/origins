@@ -20,8 +20,8 @@
 	<!-- Required: source control information: -->
 	<scm>
 		<url>https://github.com/dkrypton/origins</url>
-		<connection>scm:git:git://github.com/dkrypton/origins.git</connection>
-		<developerConnection>scm:git:git@github.com:dkrypton/origins.git</developerConnection>
+		<connection>scm:git:https://github.com/dkrypton/origins.git</connection>
+		<developerConnection>scm:git:https://github.com:dkrypton/origins.git</developerConnection>
 		<tag>origins-1.0</tag>
 	</scm>
 
