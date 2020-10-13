@@ -60,7 +60,7 @@
 	</ciManagement>
 
 	<properties>
-		<version.junit>4.12</version.junit>
+		<version.junit>4.13.1</version.junit>
 		<version.hamcrest>1.3</version.hamcrest>
 		<version.assertj>3.5.2</version.assertj>
 		<version.jmockit>1.28</version.jmockit>
